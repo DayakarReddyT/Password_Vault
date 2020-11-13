@@ -7,7 +7,7 @@ This Password Vault Will encrypt and secure your passwords.
 
 Firstly this has very nice intro , it will display the Welcome message like when someone types it .
 
-Note  : Kindly the create login_details.txt and server_details.sekret files and update the path in the script .
+Note  : Kindly create login_details.txt and server_details.sekret files and update the path in the script .
 
 Functionality : 
 
